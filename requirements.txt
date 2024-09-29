@@ -1,0 +1,6 @@
+gradio
+Pillow
+transformers
+gtts
+torch
+sentencepiece
