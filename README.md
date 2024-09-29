@@ -49,7 +49,7 @@ The Visual Story Generator is an innovative application that generates engaging 
 The application incorporates a translation model to ensure that generated stories can be effectively translated into Arabic. This allows for a broader audience reach and enhances accessibility for Arabic-speaking users.
 
 ## Walkthrough Video
-For a comprehensive guide on how to use the Visual Story Generator, check out our [YouTube Walkthrough](insert_your_youtube_link_here).
+For a comprehensive guide on how to use the Visual Story Generator, check out our [YouTube Walkthrough](https://youtu.be/OEVJUImbdK8).
 
 ## License
 This project is licensed under the Apache License 2.0.
