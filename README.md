@@ -51,6 +51,11 @@ The application incorporates a translation model to ensure that generated storie
 ## Walkthrough Video
 For a comprehensive guide on how to use the Visual Story Generator, check out our [YouTube Walkthrough](https://youtu.be/OEVJUImbdK8).
 
+## Hugging Face Space
+You can try out the Visual Story Generator directly on Hugging Face: [Visual Story Generator on Hugging Face](https://huggingface.co/spaces/YB1425/Visual_Story_Generator)
+
+
+
 ## License
 This project is licensed under the Apache License 2.0.
 
