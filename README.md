@@ -12,7 +12,7 @@ pinned: false
 # Visual Story Generator 📉
 
 ## Overview
-The Visual Story Generator is an innovative application that generates engaging short stories based on user-uploaded images. By leveraging state-of-the-art AI models, the application interprets images, extracts meaningful context, and crafts narratives that enhance the storytelling experience.
+The Visual Story Generator is an  application that generates engaging short stories based on user-uploaded images. By leveraging AI models, the application interprets images, extracts meaningful context, and crafts narratives that enhance the storytelling experience.
 
 ## Features
 - **Image Input**: Users can upload images that the model will analyze to generate a corresponding story.
