@@ -46,7 +46,7 @@ The Visual Story Generator is an  application that generates engaging short stor
 - **Audio Narration**: An audio file of the generated story read aloud, enhancing accessibility.
 
 ## Special Measures for Arabic Language Support
-The application incorporates a translation model to ensure that generated stories can be effectively translated into Arabic. This allows for a broader audience reach and enhances accessibility for Arabic-speaking users.
+The application incorporates a translation model to ensure that generated stories can be effectively translated into Arabic. As the story generation model faces difficulties generating coherent stories in Arabic
 
 ## Walkthrough Video
 For a comprehensive guide on how to use the Visual Story Generator, check out our [YouTube Walkthrough](https://youtu.be/OEVJUImbdK8).
